@@ -1,0 +1,5 @@
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\Model\bin\Debug\Model.dll
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\Model\bin\Debug\Model.pdb
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\Model\obj\Debug\Model.dll
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\Model\obj\Debug\Model.pdb

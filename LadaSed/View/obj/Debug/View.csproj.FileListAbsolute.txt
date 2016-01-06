@@ -1,0 +1,8 @@
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\bin\Debug\View.exe.config
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\bin\Debug\View.exe
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\bin\Debug\View.pdb
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\bin\Debug\Model.dll
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\bin\Debug\Model.pdb
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\obj\Debug\View.exe
+c:\users\paul\documents\visual studio 2015\Projects\LadaSed\View\obj\Debug\View.pdb
